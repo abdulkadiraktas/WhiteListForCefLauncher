@@ -11,6 +11,6 @@ Forum : https://forum.abdulkadiraktas.com.tr/threads/uecretsiz-beta-ceflauncher.
 
 ## EN
 ### Setup
-Download the files. Take to the resource section, update the apikey part in server.lua with https://abdulkadiraktas.com.tr/sistemler/launchersystem/girisyap apikey, which is your own, by logging into the x website. You can download Launcher from the same site.
+Download the files. Take to the resource section, update the apikey part in server.lua with https://abdulkadiraktas.com.tr/sistemler/launchersystem/girisyap apikey, which is your own, by logging into the same website. You can download Launcher from the same site.
 
 Forum:https://forum.abdulkadiraktas.com.tr/threads/uecretsiz-beta-ceflauncher.3/
